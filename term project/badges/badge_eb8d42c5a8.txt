@@ -1,0 +1,11 @@
+==============================
+        EVENT BADGE
+==============================
+Name        : ecrin
+Organization: aa
+Ticket Type : VIP
+Confirmation: 5383B6F3
+
+Sessions:
+  (None assigned)
+==============================

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1a808d1e",
+    "name": "event11",
+    "location": "yeditepe",
+    "start_date": "2025-02-02",
+    "end_date": "2025-02-02",
+    "capacity": 5,
+    "price": 55.0,
+    "description": "",
+    "sessions": [],
+    "status": "scheduled"
+  },
+  {
+    "id": "b15bac8e",
+    "name": "event2",
+    "location": "co",
+    "start_date": "2025-05-05",
+    "end_date": "2025-05-05",
+    "capacity": 66,
+    "price": 66.0,
+    "description": "",
+    "sessions": [],
+    "status": "scheduled"
+  }
+]

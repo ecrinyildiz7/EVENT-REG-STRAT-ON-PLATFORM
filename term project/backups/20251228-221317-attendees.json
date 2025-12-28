@@ -1,0 +1,14 @@
+[
+  {
+    "id": "d03012f3",
+    "name": "ecrin",
+    "email": "ee",
+    "organization": "aa",
+    "dietary": "aa",
+    "ticket_type": "VIP",
+    "pin": "2037",
+    "communication": {
+      "email_opt_in": true
+    }
+  }
+]

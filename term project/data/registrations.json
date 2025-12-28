@@ -1,0 +1,19 @@
+[
+  {
+    "id": "eb8d42c5a8",
+    "event_id": "1a808d1e",
+    "attendee_id": "d03012f3",
+    "ticket_type": "VIP",
+    "seat_number": 1,
+    "confirmation_code": "5383B6F3",
+    "payment_method": "card",
+    "payment_status": "paid",
+    "status": "confirmed",
+    "created_at": "2025-12-28T22:11:32",
+    "updated_at": "2025-12-28T22:11:32",
+    "checkin_timestamp": null,
+    "sessions": [],
+    "waitlist_position": null,
+    "price": 55.0
+  }
+]
